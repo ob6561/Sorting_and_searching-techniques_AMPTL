@@ -6,7 +6,7 @@
     <RootNamespace>Sorting_and_searching_techniques</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>Sorting_and_searching_techniques.Sorting_algorithms.Bubble_sort</StartupObject>
+    <StartupObject>Sorting_and_searching_techniques.Sorting_algorithms.Merge_sort</StartupObject>
   </PropertyGroup>
 
 </Project>
